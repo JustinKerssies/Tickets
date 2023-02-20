@@ -3,7 +3,7 @@ Dit is een programma dat bij een gegeven hoeveelheid costumers, voor iedereen ee
 Hierbij maakt hij ook een receipt waarin de totale aankopen worden aangegeven, samen met alle kortingen.
 
 # Taal
-Python
+Python v3.9.13
 
 # Wat heb ik geleerd
 
